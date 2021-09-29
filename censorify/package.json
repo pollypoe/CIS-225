@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pollypoe/CIS-225/Node/ch03/censorify.git"
+    "url": "https://github.com/pollypoe/CIS-225/censorify.git"
   },
   "keywords": [
     "censor",
