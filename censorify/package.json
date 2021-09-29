@@ -1,0 +1,23 @@
+{
+  "name": "censorify",
+  "version": "0.1.1",
+  "description": "Censors words our of text",
+  "main": "censortext",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pollypoe/CIS-225/Node/ch03/censorify.git"
+  },
+  "keywords": [
+    "censor",
+    "words"
+  ],
+  "author": "Polly Poeana",
+  "license": "ISC",
+  "dependencies": {},
+  "engines": {
+	"node": "*"
+	}
+}
