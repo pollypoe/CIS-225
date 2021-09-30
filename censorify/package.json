@@ -1,5 +1,5 @@
 {
-  "name": "censorify",
+  "name": "censorifyNode",
   "version": "0.1.1",
   "description": "Censors words our of text",
   "main": "censortext",
